@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reacttvmaze/static/css/main.073c9b0a.css",
+    "main.js": "/reacttvmaze/static/js/main.fc8f6efc.js",
+    "static/js/787.ed51f2c4.chunk.js": "/reacttvmaze/static/js/787.ed51f2c4.chunk.js",
+    "static/media/logo.svg": "/reacttvmaze/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reacttvmaze/index.html",
+    "main.073c9b0a.css.map": "/reacttvmaze/static/css/main.073c9b0a.css.map",
+    "main.fc8f6efc.js.map": "/reacttvmaze/static/js/main.fc8f6efc.js.map",
+    "787.ed51f2c4.chunk.js.map": "/reacttvmaze/static/js/787.ed51f2c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.fc8f6efc.js"
+  ]
+}
