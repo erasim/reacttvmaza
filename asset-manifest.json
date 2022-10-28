@@ -1,16 +1,30 @@
 {
   "files": {
-    "main.css": "/reacttvmaze/static/css/main.073c9b0a.css",
-    "main.js": "/reacttvmaze/static/js/main.fc8f6efc.js",
+    "main.css": "/reacttvmaze/static/css/main.f530b77b.css",
+    "main.js": "/reacttvmaze/static/js/main.c8ea03da.js",
     "static/js/787.ed51f2c4.chunk.js": "/reacttvmaze/static/js/787.ed51f2c4.chunk.js",
-    "static/media/logo.svg": "/reacttvmaze/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/fa-solid-900.svg": "/reacttvmaze/static/media/fa-solid-900.600339edb2e87f3c2b55.svg",
+    "static/media/fa-brands-400.svg": "/reacttvmaze/static/media/fa-brands-400.ef546fabf6d12182790d.svg",
+    "static/media/fa-solid-900.eot": "/reacttvmaze/static/media/fa-solid-900.6a9e54b6bbe67fe1c9a6.eot",
+    "static/media/fa-solid-900.ttf": "/reacttvmaze/static/media/fa-solid-900.70259a7426c070bf95aa.ttf",
+    "static/media/fa-regular-400.svg": "/reacttvmaze/static/media/fa-regular-400.08b4a6a341626561fc51.svg",
+    "static/media/fa-brands-400.eot": "/reacttvmaze/static/media/fa-brands-400.a1f2116508c8f03707b7.eot",
+    "static/media/fa-brands-400.ttf": "/reacttvmaze/static/media/fa-brands-400.c02a06cef9137a730223.ttf",
+    "static/media/fa-solid-900.woff": "/reacttvmaze/static/media/fa-solid-900.e4bb8fb60e3d0f64bc66.woff",
+    "static/media/fa-brands-400.woff": "/reacttvmaze/static/media/fa-brands-400.8fed1b226d82728037e5.woff",
+    "static/media/fa-solid-900.woff2": "/reacttvmaze/static/media/fa-solid-900.7c9e6ecbc510ad0fd472.woff2",
+    "static/media/fa-brands-400.woff2": "/reacttvmaze/static/media/fa-brands-400.18aaae4d6b26bd404365.woff2",
+    "static/media/fa-regular-400.eot": "/reacttvmaze/static/media/fa-regular-400.5a70c70f2a9d5056fa59.eot",
+    "static/media/fa-regular-400.ttf": "/reacttvmaze/static/media/fa-regular-400.e97ba4103d6f29d1b8b7.ttf",
+    "static/media/fa-regular-400.woff": "/reacttvmaze/static/media/fa-regular-400.031792c49a1e60a98f1e.woff",
+    "static/media/fa-regular-400.woff2": "/reacttvmaze/static/media/fa-regular-400.4c534fa01eda820c5864.woff2",
     "index.html": "/reacttvmaze/index.html",
-    "main.073c9b0a.css.map": "/reacttvmaze/static/css/main.073c9b0a.css.map",
-    "main.fc8f6efc.js.map": "/reacttvmaze/static/js/main.fc8f6efc.js.map",
+    "main.f530b77b.css.map": "/reacttvmaze/static/css/main.f530b77b.css.map",
+    "main.c8ea03da.js.map": "/reacttvmaze/static/js/main.c8ea03da.js.map",
     "787.ed51f2c4.chunk.js.map": "/reacttvmaze/static/js/787.ed51f2c4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.fc8f6efc.js"
+    "static/css/main.f530b77b.css",
+    "static/js/main.c8ea03da.js"
   ]
 }
